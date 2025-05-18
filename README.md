@@ -17,4 +17,5 @@ Fitur Utama:ID number & Diagnosis (M = malignant, B = benign)
 8. Concave points
 9. Symmetry
 10. Fractal dimension
+    
 Masalah utama yang ingin diselesaikan adalah mengklasifikasikan tumor payudara sebagai ganas (malignant) atau jinak (benign) berdasarkan fitur-fitur yang diambil dari citra histopatologi. Dengan menggunakan algoritma pembelajaran mesin, kami bertujuan untuk menciptakan model yang dapat membantu dalam diagnosis
